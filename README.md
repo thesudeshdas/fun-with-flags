@@ -8,7 +8,7 @@ Ctrl + [Click Here!](https://e7qco.csb.app/) to see live preview.
 The project is made to understand the basics of ReactJS, under [NeoGCamp](https://neog.camp/)'s levelZero by [Tanay Pratap](https://tanaypratap.com/).
 
 ### Demo
-![Demo 1 pic](https://github.com/thesudeshdas/skill-recommendation-app/blob/master/demo/demo1.jpg)
+![Demo 1 pic](https://github.com/thesudeshdas/fun-with-flags/blob/master/demo/demo1.jpg)
 
 ### Tech Used
 * HTML

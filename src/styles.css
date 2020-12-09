@@ -1,0 +1,72 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100%;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eff6ff;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h2 {
+  font-size: 1.7rem;
+  margin: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+  margin: 1rem;
+}
+
+input {
+  font-size: 1.5rem;
+  border: 2px solid black;
+  border-radius: 0.3rem;
+  padding: 1rem;
+  width: 50%;
+  text-align: center;
+}
+
+.container-flag-holder {
+  position: absolute;
+  bottom: 0;
+  height: 50vh;
+  margin-bottom: 2rem;
+  overflow-y: auto;
+  border-radius: 0.3rem;
+}
+
+ul {
+  margin: 0 auto;
+  padding-left: 0;
+  list-style: none;
+  background: #d1d5db;
+}
+
+.list-item-inline {
+  cursor: pointer;
+  display: inline-block;
+  margin: 1rem;
+  font-size: 2rem;
+}
+
+@media only screen and (min-width: 768px) {
+  .container-flag-holder {
+    height: 50vh;
+    margin-left: 15rem;
+    margin-right: 15rem;
+  }
+}
